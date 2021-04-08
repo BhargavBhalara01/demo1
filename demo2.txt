@@ -1,3 +1,5 @@
 #demo file for conflict
 
+# upd using update branch
 # upd using main branch
+# both updated using merge tool
